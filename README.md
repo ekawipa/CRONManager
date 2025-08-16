@@ -15,16 +15,15 @@ Clone repository ini terlebih dahulu:
 git clone https://github.com/ekawipa/CRONManager.git
 cd CRONManager
 chmod +x cron_manager.sh
-
-```markdown
+```
 🚀 Cara Penggunaan
 
 Jalankan script dengan:
-
+```bash
 ./cron_manager.sh
-
+```
 Lalu pilih menu yang tersedia:
-
+```bash
 ===========================
  Cron Manager - Menu Utama
 ===========================
@@ -34,13 +33,13 @@ Lalu pilih menu yang tersedia:
 4. Keluar
 ===========================
 Pilih opsi [1-4]:
-
+```
 ➕ Tambah Cron Job
-
 Kamu akan diminta memasukkan jadwal cron (misalnya * * * * *) dan perintah yang ingin dijalankan.
-❌ Hapus Cron Job
 
+❌ Hapus Cron Job
 Script akan menampilkan daftar cron jobs, lalu kamu tinggal memilih nomor urut job yang ingin dihapus.
+
 📜 Lihat Cron Jobs
 
 Menampilkan daftar cron jobs yang aktif di user saat ini.
@@ -61,12 +60,13 @@ Menampilkan daftar cron jobs yang aktif di user saat ini.
 🛠️ Contoh
 
 Menjalankan backup database setiap jam 2 pagi:
-
+```bash
 0 2 * * * /home/user/scripts/backup.sh
+```
 
 🤝 Kontribusi
-
 Pull request dipersilakan! Jika ada bug atau fitur baru yang diinginkan, silakan buka issue.
 📜 Lisensi
 
 MIT License © 2025
+Author : Eka W. Prasetya (@ekawprasetya)
