@@ -16,6 +16,7 @@ git clone https://github.com/ekawipa/CRONManager.git
 cd CRONManager
 chmod +x cron_manager.sh
 
+```markdown
 🚀 Cara Penggunaan
 
 Jalankan script dengan:
