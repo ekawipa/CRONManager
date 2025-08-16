@@ -43,6 +43,7 @@ Script akan menampilkan daftar cron jobs, lalu kamu tinggal memilih nomor urut j
 📜 Lihat Cron Jobs
 
 Menampilkan daftar cron jobs yang aktif di user saat ini.
+
 ⚠️ Catatan
 
     Script ini hanya mengatur cron jobs untuk user yang sedang aktif.
