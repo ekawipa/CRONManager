@@ -69,4 +69,5 @@ Pull request dipersilakan! Jika ada bug atau fitur baru yang diinginkan, silakan
 📜 Lisensi
 
 MIT License © 2025
+========================================
 Author : Eka W. Prasetya (@ekawprasetya)
